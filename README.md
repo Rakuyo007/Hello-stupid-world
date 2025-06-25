@@ -1,4 +1,4 @@
 Welcome to my personal blog
 
-[welltai.github.io]: (welltai.github.io)
+[rakuyo007.github.io]: (rakuyo007.github.io)
 
